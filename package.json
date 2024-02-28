@@ -10,7 +10,7 @@
     "sprite": "gulp sprite"
   },
   "author": "Andrey Nazarenko <andreynazarneko.webdev@gmail.com>",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "browser-sync": "latest",
     "del": "latest",
